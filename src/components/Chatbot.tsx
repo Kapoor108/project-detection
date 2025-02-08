@@ -45,7 +45,7 @@ const Chatbot = () => {
             <Bot className="w-6 h-6 sm:w-8 sm:h-8 text-emerald-500" />
           </div>
           <h2 className="text-lg sm:text-2xl font-bold text-gray-100 ml-2 sm:ml-3">
-            AI Fraud Detection Assistant
+            Ai Fraud Detection Assistant
           </h2>
         </div>
 
