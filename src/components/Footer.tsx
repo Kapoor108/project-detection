@@ -9,7 +9,7 @@ const Footer = () => {
           {/* AyurCare Pro Branding */}
           <div className="space-y-4">
             <h3 className="text-lg font-semibold bg-gradient-to-r from-emerald-400 to-teal-500 text-transparent bg-clip-text">
-              AyurCare Pro
+            InsureTech Pro
             </h3>
             <p className="text-gray-400">Traditional healing meets modern healthcare</p>
           </div>
