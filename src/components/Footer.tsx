@@ -11,7 +11,7 @@ const Footer = () => {
             <h3 className="text-lg font-semibold bg-gradient-to-r from-emerald-400 to-teal-500 text-transparent bg-clip-text">
             InsureTech Pro
             </h3>
-            <p className="text-gray-400">Traditional healing meets modern healthcare</p>
+            <p className="text-gray-400">AI-Powered Fraud Detection Meets Next-Gen Security</p>
           </div>
 
           {/* Quick Links */}
@@ -32,7 +32,7 @@ const Footer = () => {
                 <Phone className="h-5 w-5" /> <span>+91 123 456 7890</span>
               </li>
               <li className="flex justify-center md:justify-start items-center space-x-2">
-                <Mail className="h-5 w-5" /> <span>contact@ayurcare.pro</span>
+                <Mail className="h-5 w-5" /> <span>contact@insuretech.pro</span>
               </li>
               <li className="flex justify-center md:justify-start items-center space-x-2">
                 <MapPin className="h-5 w-5" /> <span>New Delhi, India</span>
