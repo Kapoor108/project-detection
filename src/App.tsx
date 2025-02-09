@@ -7,6 +7,8 @@ import Form from './pages/Form';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 import Chatbot from './components/Chatbot';
+import Document from './pages/Document';
+import CibilScore from './pages/Cibil';
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/chatbot" element={<Chatbot />}/>
           <Route path="/form" element={<Form />} />
+          <Route path="/documents" element={<Document/>} />
+          <Route path="/cibil" element={<CibilScore/>} />
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
         </Routes>

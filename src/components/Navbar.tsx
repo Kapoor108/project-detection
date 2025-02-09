@@ -23,6 +23,8 @@ const Navbar = () => {
             <Link to="/" className="text-gray-300 hover:text-emerald-400 transition-colors">Home</Link>
             <Link to="/form" className="text-gray-300 hover:text-emerald-400 transition-colors">Insurance Form</Link>
             <Link to="/chatbot" className="text-gray-300 hover:text-emerald-400 transition-colors">Chatbot</Link>
+            <Link to="/cibil" className="text-gray-300 hover:text-emerald-400 transition-colors">Cibil Score</Link>
+            <Link to="/documents" className="text-gray-300 hover:text-emerald-400 transition-colors">Document Verfication</Link>
             <Link to="/login" className="text-gray-300 hover:text-emerald-400 transition-colors">Login</Link>
             <Link to="/signup" className="bg-emerald-600 hover:bg-emerald-700 px-4 py-2 rounded-lg transition-colors">
               Sign Up
@@ -42,6 +44,8 @@ const Navbar = () => {
               <Link to="/" className="text-gray-300 hover:text-emerald-400 transition-colors">Home</Link>
               <Link to="/form" className="text-gray-300 hover:text-emerald-400 transition-colors">Insurance Form</Link>
               <Link to="/chatbot" className="text-gray-300 hover:text-emerald-400 transition-colors">Chatbot</Link>
+              <Link to="#" className="text-gray-300 hover:text-emerald-400 transition-colors">Civil Score</Link>
+              <Link to="#" className="text-gray-300 hover:text-emerald-400 transition-colors">Document Verfication</Link>
               <Link to="/login" className="text-gray-300 hover:text-emerald-400 transition-colors">Login</Link>
               <Link to="/signup" className="bg-emerald-600 hover:bg-emerald-700 px-4 py-2 rounded-lg transition-colors">
                 Sign Up
